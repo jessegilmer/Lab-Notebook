@@ -1,0 +1,37 @@
+Subject Description: Female Mouse, CB5/6, no special genotype. 
+		     Name: "Iguanna"
+		     Born on _________.
+	Surgery: 
+		Injection of Syn.AAVX.GFP.Chr2 in Right CbN-IN.
+	Surgery: 
+		Fiber Optic placed in Right CbN-IN. 
+		Headbars anterior to RN. 
+		Craniotomy over Left RN. 
+		Craniotomy lateral to Left RN.
+
+Training:
+
+5-1-19 @ 10:30 AM: Headfix Training.
+	Mouse has poor posture, only performs double-arm reaches, but is making progress.
+	Training concluded at 11:13 AM.
+
+5-2-19 @ 12:08 PM: Headfix Training.
+	Good reaching right from go.
+	Training concluded at 12:45 PM.
+
+5-4-19 @ 2:03 PM: Headfix training on wheel.
+	Not much progress.
+	Training concluded at 2:31 PM.
+	
+5-5-19 2 12:27 PM: Headfix training.
+	Not a lot of progress...
+	Training concluded at 1:21 P M.
+
+5-6-19 2:40: Headfix training wheel
+	Woof, not really reaching...
+	Training concluded at 3:15 PM.
+
+5-8-19 1:28 PM: Headfix training wheel
+	Training concluded at 1:55 PM.
+
+

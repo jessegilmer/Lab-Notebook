@@ -1,0 +1,11 @@
+RE: The names of the experimental mice.
+
+5-1-19: Explanation of naming schemes:
+	All animals are named Alphabetically with respect to their initial surgeries by JG.
+	Animals with zoologoical names are from the experiments where CbN-IN is stimulated and RN is recorded.
+	Animals with botanical names from the experiments where CbN-IN is stimulated and M-CtX is recorded.
+	Animals with mythical names are from experiments where GPi/SNr is stimulated and RN is recorded.
+
+FAQ:
+Q: Why did you do this?
+A: Simply for the fun of it.

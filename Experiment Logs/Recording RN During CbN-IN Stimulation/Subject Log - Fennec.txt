@@ -1,0 +1,50 @@
+Subject Description: Female Mouse, CB5/6 WT. 
+		     Name: "Fennec"
+		     Born on _________.
+	Surgery: 
+		Injection of Syn.AAVX.GFP.Chr2 in Right CbN-IN.
+	Surgery: 
+		Fiber Optic placed in Right CbN-IN. 
+		Headbars anterior to RN. 
+		Craniotomy over Left RN. 
+		Craniotomy lateral to Left RN.
+
+Training:
+5-01-19 11:49 AM: Headfix Training.
+	Mouse shows good unimanual reaching, but has a contra bias. Posture is fairly good.
+	Seeing some really nice reaches.
+	Training conluded at 12:07 PM.
+
+5-02-19 10:30 AM: Headfix Training.
+	Showing good unimanual reaches, bias contra and bad posture though.
+	Not making a ton of progress.
+	Training concluded at 11:00 AM.
+
+5-3-19 @ 11:10 AM: Headfix training.
+	Starting at cheek, seeing good reaches!
+	This mouse is close to ready, the reaches are well executed.
+	Training concluded at 11:30 AM.
+
+5-4-19 @ 2:38 PM: Headfix training on wheel.
+	Training concluded at 3:03 PM.
+	
+5-5-19: Re-crainotomy.
+	Little messy.
+
+5-8-19 @ 10:30 AM: Headfix training.
+	Testing refined tracking system...
+	Mouse seems ready for recording.
+	Training concluded at 11:31 AM.
+
+
+5-9-19 @ 10:45 AM: Headfix training.
+	Testing refined tracking system... part 2.
+	Got some laser data. 'Jesse_Fen_L4pt2-May_09_2019_noRec'
+	params: 
+    	back_cross = -.03;
+    	out_cross = .05;
+	p_trigger = .25;
+	power: 4.8 .... [?]
+	Training concluded 11:59 AM
+
+

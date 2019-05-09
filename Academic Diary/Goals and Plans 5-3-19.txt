@@ -1,0 +1,46 @@
+Thesis Project - Control of the red nucleus by cerebellum and basal ganglia
+
+Long term goal: 
+	At least one paper
+	A completed thesis
+
+Short term goals:
+	NRSA submission in August
+	BG Anatomy experiments
+	Data from CBN -> RN stim experiments.
+	EMG Experiments.
+	An optimized experiment workflow/pipeline.
+
+Actualization:
+
+NRSA Submission in August:
+	Requirements:
+		Reworked NRSA documents.
+			>[See comments]
+
+		Data from CBN -> RN
+		[] Plan B: Show "Crow" data. Anatomy was inconclusive.
+		[] Plan A: Get F, G, H, I recordings and anatomy.
+
+		Anatomy for GPi -> RN or SNR -> RN.
+	
+		Behavoior for GABAzine -> RN.
+	
+	Timeline:
+		May Week 1: Hfix Training F-I.
+		May Week 2: Recording best 2 mice.
+		May Week 3: Recording best 2 mice/GABAzine.
+		May week 4: Recording last 2 mice/ init. Surgery Cohort J-M.
+		June week 1: Recording last 2 mice/GABAzine/box train J-M/Silver.
+		June week 2: Birthday Vacay/ Hfix training J-M.
+		June week 3: Hfix training J-M/ Record Best 2.
+		June week 4: Record Best 2
+		July Week 1: Record Best 2 /GABAzine.
+		July Week 2: Recording last 2 mice/ init. Surgery Cohort N-Q.
+		July Week 3: Recording last 2 mice/GABAzine/box train N-Q.
+		July Week 4: Analysis / Hfix N-Q.
+		August Week 1: Writing/Submission/Analysis/hfix N-Q.
+	
+		Instead of N-Q or J-M, A-D of GPi? wait and see F-I results.
+		Anatomy from B & E? Still alive, 2 recordings with DiO.
+		Anatomy/Tracing interspersed? At least by June-2w to get 6w expression.

@@ -1,0 +1,10 @@
+Phase 1: Subjects are water deprived and allowed free access to water via reaching in the free-moving behavioral chambers, typically for 8 hours each day. 
+Subjects stay in this phase until they reach 100 times within 1 hour, for a minimum of 3 days.
+
+Phase 2: Subjects are acclimated to head-fixation by being placed in head-fix rig for 10 minutes, with additional 10 minute durations per successive day until 30 minute sessions are in effect.
+subjects are given lick-access to water during acclimation.
+
+Phase 3: Lick access is gradually removed by moving the lick syringe away anterior and dorsally, until drop is alligned with nose. 
+When reaching to nose is achieved, bimnaually, the syringe is moves laterally towards goal reaching limb until unimanual reaching is used.
+
+Phase 4: Subject's craniotomy is opened, and recording is performed by lowering a silicone probe array 3.5 mm to RNm. 20 stimulated reaches are recorded per "power" level.

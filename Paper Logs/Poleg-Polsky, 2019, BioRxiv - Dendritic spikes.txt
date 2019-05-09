@@ -1,0 +1,42 @@
+Dendritic spikes expand the range of well-tolerated population noise structures
+Alon Poleg-Polsky
+2019
+BioRxiv
+
+File Under: Computational Neuroscience, Biophysical Modelling, Dendritic Integration, Dendritic Properties, Theories of Noise.
+
+Summary: To explore how neurons deal with noisy inputs, Poleg-Polsky models the response to noisy inputs with and without dendritic spiking to show that dendiritic spiking improves neural performance in a variety of tasks.
+
+Notes:
+41: "... most biological neurons are not linear integrators of synaptic inputs. Instead, dendritic voltage-dependent channels can dramatically affect synaptic processing. For example, numerous studies have demonstrated that dendrites can generate spikes in response to synaptic stimulation."
+	I've wondered, wrt Purkinje Cells, how much functional organization of inputs matters for this sort of thing. Could we ask how a collection of variously correlated inputs would alter the computation in a model similar to this, 	and even perhaps look at dendrite morphology effects, e.g. Teleost vs Mamallian P-cell organization? Seems like a computationally feasible project.
+
+
+49: "Sufficiently strong activation of spatiotemporally coordinated synaptic inputs produces a regenerative dendritic spike that amplifies the synaptic drive to the dendrite and potentially boosts representation of salient input patterns"
+	A encode, no-encode filter, where the subsequent amplitude is the actual encoder? A window for integration? Is it linear post-spike?
+
+59: "Classically, the central neuronal denoising element has been assumed to be averaging over a large number of synaptic inputs."
+	Is there overlap between safe noise averaging and 	sparse representation?
+
+Fig 1,C: Depicting the point of amplification at exactly the point of highest confusion....
+	Is this ideal? what about losing some data but 	preventing confusion risks? Is that more optimal?
+
+107: What does DSI stand for? Directional Selectivity Index?
+
+151: "The presence of dendritic spikes was measured as prolonged (>30 ms) depolarization above -30 mV in the activated dendritic location"
+	Does this preclude this special filtering from dendrites/firing cycles that exceed 25 Hz (roughly)?
+
+156: Broken link.
+
+191: "Recent empirical and theoretical studies have shown that stochastic Gaussian noise is not the only, and likely not even the most prevalent noise structure in the brain."
+	How do you tell noise from uncertainty? What "noise" is most likely to occur due to probabalistic understanding of sensory events? How is this noise amplified as the circuit progresses? Whisper-chain?
+
+438: "Misclassifications plague artificial neural networks; our conscious experience suggests that classification errors are common in biological brains. Instead of treating classification errors as computational failures, I propose to consider them as a noise source that decreases the accuracy of the computation."
+	I wonder if loci of misclassification has differential effects. If I were to randomly switch the decisions in a neural network either proximal to sensing (input), or proximal to behavior (output), would the subsequent learning and misclassification in output change differentialy?
+
+489: "My results support the opposite conclusion: directional correlations are a relatively benign noise structure for signal processing in small dendritic integration compartments."
+	It seems like a scavenging interpretation of information, e.g. Fisher info, would be seriously degraded in this case, though?
+
+Thoughts:
+So, in this study, the dendrites have semi-independent means of amplifing or rejecting signals? What is the intuition of this procress? It is alike: imagine I have 3 sources on information which are imperfect, but can be quite reliable when weighed together. In the passive case are these linearly arranged in space such that I can draw a plane that optimizes my predictive/comprehending power? In the alternate case, say that my sources are unreliable, but I know that when source 1 is... 80% certain, that this is actually as good as 100% reporting on the state, in this case there is a jumping function at .8 in that vector that I push to 1 in all weighing cases? 
+Well, in any case, under what circumstances are these noise structures encountered? Gaussian noise seems like it can stem from an imprecise reporter, but could it also arise from uncertainty? The coding error noise also, necessarily, comes from uncertainty, right? Or are they distinct?

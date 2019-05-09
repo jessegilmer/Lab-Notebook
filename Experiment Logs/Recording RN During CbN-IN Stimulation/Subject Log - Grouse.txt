@@ -1,0 +1,38 @@
+Subject Description: Female Mouse, CB5/6, no special genotype. 
+		     Name: "Grouse"
+		     Born on _________.
+	Surgery: 
+		Injection of Syn.AAVX.GFP.Chr2 in Right CbN-IN.
+	Surgery: 
+		Fiber Optic placed in Right CbN-IN. 
+		Headbars anterior to RN. 
+		Craniotomy over Left RN. 
+		Craniotomy lateral to Left RN.
+
+Training:
+
+5-1-19 @ 11:15 AM: Headfix Training.
+	Subject seemed sick upon in-cage examination. Subject has malformations of the lower jaw and chest.
+	Mouse showing signs of single arm reaching, good posture. Has a contra-implant bias that needs correcting.
+	Note: Applied Neosporin to raw chest area at 11:31 AM.
+	Training concluded at 11:45 AM.
+
+5-2-19 11:39 AM: Headfix Training
+	Poor thing seemed lethargic again. Good reaching though.
+	Applied Neosporing to chest at 12:04 PM.
+	Training concluded at 12:05 PM.
+
+5-3-19 11:32 AM: Headfix training
+	Seemed a little peppier today.
+	Starting at cheek, a little hesitant to reach. Club hands.
+	not doing great.
+	Training concluded at 11:57 AM.
+
+5-4-19 3:10: Headfix training on wheel.
+	Arm seems weak? Chest is looking better.
+	Training concluded at 3:40 PM.
+
+5-5-19: Re-craniotomy.
+
+5-8-19 11:40 AM: Headfix training.
+	Training concluded at 12:30 PM.

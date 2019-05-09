@@ -1,0 +1,35 @@
+Subject Description: Female Mouse, CB5/6, no special genotype. 
+		     Name: "Horse"
+		     Born on _________.
+	Surgery: 
+		Injection of Syn.AAVX.GFP.Chr2 in Right CbN-IN.
+	Surgery: 
+		Fiber Optic placed in Right CbN-IN. 
+		Headbars anterior to RN. 
+		Craniotomy over Left RN. 
+		Craniotomy lateral to Left RN.
+
+Training:
+5-01-19 12:08 PM: Headfix Training.
+	Subject is performing bimanual reaches with poor posture.
+	Beginning to see intermittent unimanual reaching.
+	Training concluded at 12:30 AM.
+
+5-02-19 11:03 AM: Headfix Training.
+	Making some nice reaches, but not drinking the results, haha. Making weird repetitive hand motions sub-reach.
+	Posture is improving.
+	Training concluded at 11:36 AM.
+
+5-4-49 @ 1:29 PM: Headfix training on wheel.
+	She does not like the wheel.
+	Training concluded at 2:00 PM.
+
+5-5-19 @ 11:28 AM: Headfix Training.
+	not into it.
+	Training concluded at 12:22 PM.
+
+5-6-19 @ 3:17 PM: Headfix training on wheel.
+	Training concluded at 3:55 PM.
+
+5-8-19 @ 1:57 PM: Headfix training on wheel.
+	Training concluded at 2:25 PM.

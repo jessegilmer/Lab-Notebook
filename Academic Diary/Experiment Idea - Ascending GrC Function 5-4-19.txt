@@ -1,0 +1,12 @@
+Is it possible that the ascending vs parallel connections of granule cells at the Purkinje dendrite is the locus of secondary recombination?
+I think I could show that if the average distance from Branch Point to First Synaptic Swelling is > The depth of the purkinje cell denrite that these cells don’t “synapse twice”. But, even if they do, the lower synapses of the ascending portion are likely to meet up with parallel fibers from distant sources, and the ascending fibers have a limited overlap potential geometrically, which could be shown in simulation.
+Is there a benefit in combining proximal and distal inputs? Do distal inputs have a lower correlation with proximal inputs? Could J show that this must be the case geometrically? Seems like a cool paper. combined with biophys model of PKJ? Summarion of decorr inputs?
+
+
+Fig 1. Anat showing the probability of double synaptic contact, degree of overlap, RFP distal GFP local.
+
+Fig 2. Geometric proof of overlap of the “underneath” cells, expected density of correlated “due to clustering” cells.
+
+Fig 3. Biohys model showing the effects of various decorr inputs.
+
+Fig 4. Effects of low powered synapse summation/combination for learning an output. Effect of “possible circuits” on output.
