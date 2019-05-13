@@ -48,3 +48,25 @@ Training:
 	Training concluded 11:59 AM
 
 
+
+5-9-19 @ 9:45 AM: Recording
+	File 1: ~3.25 mm deep.
+	
+
+5-9-19 @ 9:45 AM: Recording
+	Site is anterior, maybe 60% Ant, and lateral, near the center of the craniotomy.
+	50 um shank.
+	File 1: Jesse_Fennec_0998mW-May_09_2019_Rec_01 @ 9:50
+	3.25 mm deep.
+	Channels seem useless...
+	Afraid to go deeper, because of headcap.
+	stopped: 10:07
+
+	File 2: Jesse_Fennec_0998mW-May_09_2019_Rec_02 @ 10:09
+	3.4 mm deep.
+	Ch 13 seems good.
+	stopped: 10:25
+	
+	Mouse is unhappy, ending here. 10:26 AM.
+	
+	
